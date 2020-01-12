@@ -5,7 +5,7 @@ class ArticlesController extends Zend_Controller_Action
 
     public function indexAction()
     {
-        // для вывода списка статей
+        // для вывода списка ста
     }
 
     public function viewFullArticleAction()
